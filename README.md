@@ -1,3 +1,4 @@
 # OnlineStoreHomePage
 Simple code of home page for Online store using HTML, CSS.
-![Uploading screencapture-localhost-8383-Assignment-I-index-html-2021-06-05-11_31_45.png…]()
+![Homepage](https://user-images.githubusercontent.com/78735569/120881895-f994c980-c5f1-11eb-8377-59cefd92595b.jpg)
+
